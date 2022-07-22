@@ -12,7 +12,7 @@ function tocaSom (seletorAudio) {
 }
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
-
+//Aqui vai um comentário teste para ver se está funcionando o git
 //para
 for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 
